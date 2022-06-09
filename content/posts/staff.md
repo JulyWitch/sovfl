@@ -6,7 +6,7 @@ draft: false
 
 
 
-## List of emmployees
+## List of employees
 
 
 {{ range .Site.Data.staff }}
